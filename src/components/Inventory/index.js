@@ -1,0 +1,1 @@
+export { RoomInventory } from './RoomInventory'
