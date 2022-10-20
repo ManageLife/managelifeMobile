@@ -33,7 +33,7 @@
       "react-native-modal-datetime-picker": "^7.5.0",
       "react-native-picker-select": "^6.3.3",
       "react-native-popup-menu": "^0.15.6",
-      "react-native-reanimated": "~1.1.0",
+      "react-native-reanimated": "~2.10.0",
       "react-native-responsive-image-view": "^2.0.0",
       "react-native-scrollable-tab-view": "^0.10.0",
       "react-native-text": "^0.2.0",
